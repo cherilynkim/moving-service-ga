@@ -1,0 +1,31 @@
+/* src/components/Tabs.css */
+.tabs {
+    padding: 20px;
+  }
+  
+  .tabs-nav {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .tabs-nav button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-bottom: 2px solid transparent;
+  }
+  
+  .tabs-nav button.active {
+    border-bottom: 2px solid #61dafb;
+  }
+  
+  .tabs-content {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
