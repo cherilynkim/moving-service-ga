@@ -59,7 +59,7 @@ function HomePage() {
             <img src="image17.jpg" alt="Service 3" className="card-image" />
             <div className="card-content">
               <h3 className="card-title">Nationwide</h3>
-              <p className="card-description">Description for service 3.</p>
+              <p className="card-description">Our company offers nationwide moving services with our specialized trucks, ensuring your belongings reach their destination safely and efficiently.</p>
               <div className="blanks"></div>
             </div>
           </div>
