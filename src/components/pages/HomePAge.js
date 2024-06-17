@@ -19,7 +19,7 @@ function HomePage() {
           </p>
         </section>
         <section className="image-section">
-          <img src="./image1.jpg" alt="Moving truck" className="additional-image" />
+          <img src="./moving-service-ga/image1.jpg" alt="Moving truck" className="additional-image" />
         </section>
         <section className="text-section">
           <h2>Our Mission</h2>
