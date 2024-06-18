@@ -25,7 +25,7 @@ function Services() {
         <p>"I met Kevin at Peachstate Freightliner and told me if I ever needed his services call. Needless to say I did. To my surprise company arrived early with Phone call. They started packing and moving. Total 2 hrs my house is packed and ready. This company is very professional and courteous. A BIG THUMBS UP. Thank you Kevin and his hard workers"</p>
         <p>- Benjamin Denard</p>
         <div className="review-picture">
-          <img src="/image18.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image18.jpg" alt='moving' className="review-picture" />
         </div>
       </div>
       <div className="review">
@@ -36,9 +36,9 @@ Prior to finding this company, I contacted several other moving companies who al
 There ended up being more items than we initially thought. But with zero complaints, they put genuine and honest efforts into everything they did, and was able to help us with way more than what we had initially asked them to do. And they were super efficient... I am so so pleased with this hard-working and kind-hearted team. I will continue to come to them again and again, and will recommend them to everyone I know!"</p>
         <p>- Joann Kang</p>
         <div className="review-picture">
-          <img src="/image9.jpg" alt='moving' className="review-picture" />
-          <img src="/image10.jpg" alt='moving' className="review-picture" />
-          <img src="/image8.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image9.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image10.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image8.jpg" alt='moving' className="review-picture" />
         </div>
       </div>
       <div className="review">
@@ -50,9 +50,9 @@ They started from 7:30 in the morning and finished around 2:30. Everything was d
 Overall, highly recommend!"</p>
         <p>- Dandy Dan Yoon</p>
         <div className="review-picture">
-          <img src="/image6.jpg" alt='moving' className="review-picture" />
-          <img src="/image7.jpg" alt='moving' className="review-picture" />
-          <img src="/image5.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image6.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image7.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image5.jpg" alt='moving' className="review-picture" />
         </div>
       </div>
       <div className="review">
@@ -63,17 +63,33 @@ The movers were also very friendly and helpful. They answered all of my question
 Other moving companies were expensive, and I had experiences where they would charge extra depending on the situation. However, Moving Service GA did not charge any extra and their prices were very reasonable. I was very impressed with their professionalism and would highly recommend them to anyone looking for a moving company."</p>
         <p>- Seongduk Hwang</p>
         <div className="review-picture">
-          <img src="/image12.jpg" alt='moving' className="review-picture" />
-          <img src="/image3.jpg" alt='moving' className="review-picture" />
-          <img src="/image13.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image12.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image3.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image13.jpg" alt='moving' className="review-picture" />
+        </div>
+      </div>
+      <div className="review">
+        <p>"Very recommended. if there is more stars I would like to add 100 more.
+We had to urgently move had to move on the 25 and Mr. Daniel was able to support us on the timing and day.
+
+We moved from a 2nd floor apt to a 3rd floor. That morning they came on time and started to move everything one by one. They took care of our furniture as if it were theirs and carefully loaded on to their truck, One shocking thing I was surprised was they were carrying most of the boxes/furniture on their back without using other equipment's.
+
+This is our 2nd time using them and when our family and friends are moving we tell them about Mr. Daniel.
+
+If anyone looking to move and is looking for great service look no where else. This is the place. Don't just take my word for it look at the reviews."</p>
+        <p>- John Kim</p>
+        <div className="review-picture">
+          <img src="./moving-service-ga/image21.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image22.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image23.jpg" alt='moving' className="review-picture" />
         </div>
       </div>
       <div className="review">
         <p>"Everything was packed with care. Extra work that needed to be put into disassembling, assembling, wrapping furnitures and equipments were put into place. They organized accordingly so that there was no complications during our move, as we had 4 different routes. Communication was great, price was excellent, and service from all the employees were friendly. Overall, they showed value and care in our items as if it was their own. Highly Recommended!"</p>
         <p>- Susan Jeong</p>
         <div className="review-picture">
-          <img src="/image14.jpg" alt='moving' className="review-picture" />
-          <img src="/image15.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image14.jpg" alt='moving' className="review-picture" />
+          <img src="./moving-service-ga/image15.jpg" alt='moving' className="review-picture" />
         </div>
       </div>
       <div className="blanks"> 

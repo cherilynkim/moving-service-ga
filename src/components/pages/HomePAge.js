@@ -5,9 +5,12 @@ function HomePage() {
     <div className="home">
       <header className="App-header">
         <h1 className="App-title">Moving Service GA</h1>
-        <p className="App-slogan">Your Satisfaction is Our Utmost Priority</p>
-        <p className="App-slogan">Call Us Today: 678-860-2800</p>
+        <div className="App-slogan-container">
+          <p className="App-slogan">Your Satisfaction is Our Utmost Priority</p>
+          <p className="App-slogan">Call Us Today: 678-860-2800</p>
+        </div>
       </header>
+
       <div className="additional-sections">
         <div className="blank-after-slogan"></div>
         <section className="text-section">
@@ -19,7 +22,7 @@ function HomePage() {
           </p>
         </section>
         <section className="image-section">
-          <img src="/image1.jpg" alt="Moving truck" className="additional-image" />
+          <img src="./moving-service-ga/image1.jpg" alt="Moving truck" className="additional-image" />
         </section>
         <section className="text-section">
           <h2>Our Mission</h2>
@@ -30,7 +33,7 @@ function HomePage() {
           </p>
         </section>
         <section className="image-section">
-          <img src="/image4.jpg" alt="Moving team" className="additional-image" />
+          <img src="./moving-service-ga/image4.jpg" alt="Moving team" className="additional-image" />
         </section>
         <section className="text-section">
           <h2>Our Special Offers</h2>
@@ -42,21 +45,21 @@ function HomePage() {
         <div className="blanks"></div>
         <div className="card-section">
           <div className="card">
-            <img src="image19.jpg" alt="Service 1" className="card-image" />
+            <img src="./moving-service-ga/image19.jpg" alt="Service 1" className="card-image" />
             <div className="card-content">
               <h3 className="card-title">Plastic Wrapping</h3>
               <p className="card-description">Our company offers a service of wrapping large items with plastic wrap to ensure cleanliness and protection </p>
             </div>
           </div>
           <div className="card">
-            <img src="image20.jpg" alt="Service 2" className="card-image" />
+            <img src="./moving-service-ga/image20.jpg" alt="Service 2" className="card-image" />
             <div className="card-content">
               <h3 className="card-title">Carpets</h3>
               <p className="card-description">Our moving company provides carpets during the move to ensure the floor remains undamaged.</p>
             </div>
           </div>
           <div className="card">
-            <img src="image17.jpg" alt="Service 3" className="card-image" />
+            <img src="./moving-service-ga/image17.jpg" alt="Service 3" className="card-image" />
             <div className="card-content">
               <h3 className="card-title">Nationwide</h3>
               <p className="card-description">Our company offers nationwide moving services with our specialized trucks, ensuring your belongings reach their destination safely and efficiently.</p>

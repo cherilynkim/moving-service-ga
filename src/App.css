@@ -117,12 +117,15 @@ body {
 
 
 /* src/pages/HomePage.css */
+/* App.css */
+
 .home {
-  background-image: url('../public/HP.background.jpg');
+  /*background-image: url('../public/HP.background.jpg');
+  */
   background-size: 100%; /* Ensure the image covers the entire container */
-  background-position: center top 10% ; /* Center the image */
+  background-position: center top 10%; /* Center the image */
   background-repeat: no-repeat; /* Prevent the image from repeating */
-  min-height:100vh; /* Ensure the container takes at least the full viewport height */
+  min-height: 100vh; /* Ensure the container takes at least the full viewport height */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -131,15 +134,46 @@ body {
   box-sizing: border-box;
 }
 
+.app-header {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8f9fa; /* Optional background color for the header */
+}
+
+.logo {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 200px; /* Adjust as necessary */
+  height: auto;
+  border-radius: 10px;
+}
+
+.navigation-buttons {
+  margin-left: auto;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 20px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
+
 .App-header {
   text-align: center;
 }
 
-
-
 .App-title {
   font-size: 2.5em;
-  background-color: #FFA500;; /* Add your desired background color here */
+  background-color: #FFA500; /* Add your desired background color here */
   padding: 20px;
   display: block;
   margin-bottom: 40px;
@@ -147,18 +181,29 @@ body {
 }
 
 
-.App-slogan {
-  font-size: 1.4em;
+.App-slogan-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Adjust the space between the items as needed */
 }
 
+.App-slogan {
+  font-size: 1.8em;
+  margin: 0; /* Remove default margin */
+  padding: 0 10px; /* Add padding if needed */
+  display: inline; /* Ensure the items are displayed inline */
+}
 
 .blank-after-slogan {
   margin-top: 300px;
 }
+
 .additional-sections {
   margin-top: 40px;
   display: block;
 }
+
 .section-container {
   display: flex;
   align-items: center;
@@ -166,11 +211,13 @@ body {
   margin-bottom: 40px;
 }
 
-.blanks{
-  margin-top: 300px;
+.blank {
+  margin-top: 100px;
 }
 
-
+.blanks {
+  margin-bottom: 200px;
+}
 
 .text-section, .image-section {
   margin-bottom: 40px;
@@ -181,7 +228,7 @@ body {
 .image-section img {
   display: block;
   margin: 0 auto;
-  width: 400px;
+  width: 500px;
   max-width: auto;
   border-radius: 10px;
   margin-bottom: 10px;
@@ -190,7 +237,6 @@ body {
 
 .text-section p, .image-section p {
   text-align: center;
-
 }
 
 .card-section {
@@ -229,6 +275,7 @@ body {
   font-size: 1em;
   margin: 0;
 }
+
 
   /* src/components/Services.css */
   .services {
@@ -309,7 +356,7 @@ body {
 /* src/components/Footer.css */
 .footer-container {
   display: flex;
-  justify-content: space-between;
+  flex-direction: row;
   background-color: #0000;
   width: 100%;
   padding: 0;
@@ -318,6 +365,8 @@ body {
 
 .footer-section {
   flex: 1;
+  display: flex;
+  flex-direction: column;
   padding: 20px; /* Add some padding for better spacing */
 }
 
