@@ -11,9 +11,9 @@ function NavigationButtons() {
 
   return (
     <div className="navigation-buttons">
-      <button onClick={() => navigate('/')}>Home Page</button>
-      <button onClick={() => navigate('/services')}>Services/ Reviews</button>
-      <button onClick={() => navigate('/contact-form')}>Contact Form</button>
+      <button onClick={() => navigate('/moving-service-ga')}>Home Page</button>
+      <button onClick={() => navigate('/moving-service-ga/services')}>Services/ Reviews</button>
+      <button onClick={() => navigate('/moving-service-ga/contact-form')}>Contact Form</button>
     </div>
   );
 }
@@ -27,9 +27,9 @@ function App() {
           <NavigationButtons />
         </header>
         <Routes>
-          <Route path="/" element={<HomePage />} />
-          <Route path="/services" element={<Services />} />
-          <Route path="/contact-form" element={<ContactForm />} />
+          <Route path="/moving-service-ga" element={<HomePage />} />
+          <Route path="/moving-service-ga/services" element={<Services />} />
+          <Route path="/moving-service-ga/contact-form" element={<ContactForm />} />
         </Routes>
         <Footer />
       </div>
