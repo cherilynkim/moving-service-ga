@@ -42,7 +42,7 @@ function HomePage() {
             Contact us today to learn more about our current promotions and discounts.
           </p>
         </section>
-        <div className="blanks"></div>
+        <div className="blank"></div>
         <div className="card-section">
           <div className="card">
             <img src="./moving-service-ga/image19.jpg" alt="Service 1" className="card-image" />

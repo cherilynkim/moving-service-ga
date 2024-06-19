@@ -356,7 +356,7 @@ button:hover {
 /* src/components/Footer.css */
 .footer-container {
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
   background-color: #0000;
   width: 100%;
   padding: 0;
@@ -365,8 +365,6 @@ button:hover {
 
 .footer-section {
   flex: 1;
-  display: flex;
-  flex-direction: column;
   padding: 20px; /* Add some padding for better spacing */
 }
 
