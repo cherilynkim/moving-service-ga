@@ -45,7 +45,7 @@ function HomePage() {
         <div className="blank"></div>
         <div className="card-section">
           <div className="card">
-            <img src="./moving-service-ga/image19.jpg" alt="Service 1" className="card-image" />
+            <img src="./image19.jpg" alt="Service 1" className="card-image" />
             <div className="card-content">
               <h3 className="card-title">Plastic Wrapping</h3>
               <p className="card-description">Our company offers a service of wrapping large items with plastic wrap to ensure cleanliness and protection </p>

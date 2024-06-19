@@ -10,7 +10,6 @@ function Footer() {
         <p>Phone: 678-860-2800</p>
         <p>Email: <a href="mailto:movingservicega@gmail.com">movingservicega@gmail.com</a></p>
         <p>Instagram: <a href="https://www.instagram.com/movingservice" target="_blank" rel="noopener noreferrer">@ga_moving_service</a></p>
-        <p>Facebook: <a href="https://www.facebook.com/movingservicega" target="_blank" rel="noopener noreferrer">Kevin Kang</a></p>
       </div>
       <div className="footer-section-2">
         <h3>Find Us</h3>
