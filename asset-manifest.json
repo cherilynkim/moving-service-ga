@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/moving-service-ga/static/css/main.d5e07269.css",
-    "main.js": "/moving-service-ga/static/js/main.a826ce85.js",
+    "main.css": "/moving-service-ga/static/css/main.96fa3480.css",
+    "main.js": "/moving-service-ga/static/js/main.1206618b.js",
     "static/js/453.389fe3c6.chunk.js": "/moving-service-ga/static/js/453.389fe3c6.chunk.js",
-    "static/media/HP.background.jpg": "/moving-service-ga/static/media/HP.background.0f80c811d77f7145ac20.jpg",
     "index.html": "/moving-service-ga/index.html",
-    "main.d5e07269.css.map": "/moving-service-ga/static/css/main.d5e07269.css.map",
-    "main.a826ce85.js.map": "/moving-service-ga/static/js/main.a826ce85.js.map",
+    "main.96fa3480.css.map": "/moving-service-ga/static/css/main.96fa3480.css.map",
+    "main.1206618b.js.map": "/moving-service-ga/static/js/main.1206618b.js.map",
     "453.389fe3c6.chunk.js.map": "/moving-service-ga/static/js/453.389fe3c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5e07269.css",
-    "static/js/main.a826ce85.js"
+    "static/css/main.96fa3480.css",
+    "static/js/main.1206618b.js"
   ]
 }
